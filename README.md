@@ -1,4 +1,6 @@
-# Healthcare_management_system
+# Healthcare Management System
+
+
 👨‍⚕️ A complete relational database system to manage hospital operations including patient data, admissions, surgeries, room & bed allocations, staff assignments, and billing — all modeled and analyzed using SQL.
 
 ## 📌 Project Objective
@@ -18,5 +20,5 @@ All tables were connected using primary and foreign keys, and imported into MySQ
 ![G2_Hospital_Management_Sytem_ERD_final](https://github.com/user-attachments/assets/32b0174e-0e3c-414d-867f-61342075bbd8)
 
 
-# ✨ Outcome
+## ✨ Outcome
 This project strengthened my understanding of real-world database design, SQL data analysis, and helped me practice translating raw data into operational insights.
