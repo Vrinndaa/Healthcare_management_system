@@ -1,10 +1,10 @@
 # Healthcare_management_system
 👨‍⚕️ A complete relational database system to manage hospital operations including patient data, admissions, surgeries, room & bed allocations, staff assignments, and billing — all modeled and analyzed using SQL.
 
-# 📌 Project Objective
+## 📌 Project Objective
 This project simulates a real-world hospital database using a normalized schema. The goal is to perform structured analysis and generate meaningful insights for hospital administrators and medical staff.
 
-# 📂 Dataset Description
+## 📂 Dataset Description
 The dataset consists of 14 interlinked CSV files, covering:
     ~ Patient records
     ~ Doctors & departments
